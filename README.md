@@ -1,5 +1,6 @@
 ## Hi there 👋
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/06f6fef1-ba4f-4cc7-9b84-3a3a2b1a7e98)
+
 
 <!--
 **riddhima109/riddhima109** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
