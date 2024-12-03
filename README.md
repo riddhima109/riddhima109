@@ -1,9 +1,8 @@
-## Hi there 👋
-<p align="center">
-  <img src="![f893b3e0-370b-4faa-9fff-4c28e29ef5a4](https://github.com/user-attachments/assets/d9e0c04a-049d-4588-b4b9-620d0f44ab7d)
-" />
-</p>
+![2e9e9c04-1d3c-436c-a0a8-b31bb8687342 (1)](https://github.com/user-attachments/assets/32d101d0-42d9-495a-a70b-de104d8a90f3)
 
+<p align="center">
+  **Hi there 👋**
+</p>
 
 
 <!--
