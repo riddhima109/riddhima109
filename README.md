@@ -1,5 +1,9 @@
 ## Hi there 👋
-![image](https://github.com/user-attachments/assets/06f6fef1-ba4f-4cc7-9b84-3a3a2b1a7e98)
+<p align="center">
+  <img src="![f893b3e0-370b-4faa-9fff-4c28e29ef5a4](https://github.com/user-attachments/assets/d9e0c04a-049d-4588-b4b9-620d0f44ab7d)
+" />
+</p>
+
 
 
 <!--
