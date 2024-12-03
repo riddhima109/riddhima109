@@ -1,8 +1,9 @@
 ![2e9e9c04-1d3c-436c-a0a8-b31bb8687342 (1)](https://github.com/user-attachments/assets/32d101d0-42d9-495a-a70b-de104d8a90f3)
 
-<p align="center">
-  **Hi there 👋**
+<p align="center" style="font-weight: bold;">
+  Hii there 👋! I am Riddhima Bansal
 </p>
+
 
 
 <!--
