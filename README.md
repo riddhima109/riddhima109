@@ -16,7 +16,7 @@
 - 🚀 Currently diving deep into Cloud Services (AWS, GCP), and exploring the world of Generative AI and NLP.
 - 🛠️ **Technologies I’m working with:** Python, TensorFlow, PyTorch, React.js, Node.js, AWS, GCP, PostgreSQL, MongoDB, Docker, Kubernetes
 - 📚 Currently learning: Advanced Deep Learning, Reinforcement Learning, Cloud Architecture, Quantum Computing, GraphQL
-- 🌍 Open to collaborations: Whether you're working on an AI project, exploring new data science techniques, or tackling complex system designs—let's work together!
+- 🌍 **Open to collaborations:** Whether you're working on an AI project, exploring new data science techniques, or tackling complex system designs—let's work together!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -33,4 +33,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshraj1403&show_icons=true&locale=en&layout=compact" alt="harshraj1403" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshraj1403&" alt="harshraj1403" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=riddhima109" alt="riddhima109" /></p>
