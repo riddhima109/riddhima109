@@ -1,27 +1,44 @@
 
 ![2e9e9c04-1d3c-436c-a0a8-b31bb8687342 (1)](https://github.com/user-attachments/assets/7511ab1c-9ed2-4e4b-9fd9-f5925158351b)
 
-<h1 align="center">**Hii 👋, I'm Riddhima Bansal**</h1>
-<h3 align="center">"Enthusiastic about leveraging AI, data science, and tech to create impactful solutions.".</h3>
-<img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGRtZ3Z2M3dubXdtcHBsbDR5emF1ZnFxcXVvdDhoM2Q4aWVzYzlwcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NHvv0Bo3oGq1eTBDd1/giphy.webp">
+<h1 align="center">Hii 👋, I'm Riddhima Bansal</h1>
+<h3 align="center">Enthusiastic about leveraging AI, data science, and tech to create impactful solutions..</h3>
+<img align="right" alt="coding" width="400" src="https://github.com/riddhima109/riddhima109/blob/main/Untitled%20design.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshraj1403&label=Profile%20views&color=0e75b6&style=flat" alt="harshraj1403" /> </p>
+🔭 I’m currently working on Business-AI
 
-- 🔭 I’m currently working on [Business-Ai](https://github.com/harshraj1403/Business-Ai)
+👨‍💻 All of my projects are available at My Portfolio
 
-- 👨‍💻 All of my projects are available at [https://harshportfolio-harsh-rajs-projects-b6ea1943.vercel.app/](https://harshportfolio-harsh-rajs-projects-b6ea1943.vercel.app/)
+💬 Ask me about AI/ML, Data Science, Python, React.js, Node.js, TensorFlow, AWS, Cloud Computing, MySQL, DSA
 
-- 💬 Ask me about **React Js, Node.js, Typescript, AWS, MySql,  Next Js,DSA**
+📫 How to reach me: riddhimab65@gmail.com
 
-- 📫 How to reach me **rajharsh1703@gmail.com**
+📄 Know about my experiences: Resume
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1UlA8XHKqLmCl3e41tPh0Vc6IiiaNj9Tm/view?usp=drivesdk](https://drive.google.com/file/d/1UlA8XHKqLmCl3e41tPh0Vc6IiiaNj9Tm/view?usp=drivesdk)
+⚡ Fun fact: I write code like I solve puzzles—one piece at a time until everything fits perfectly!
 
-- ⚡ Fun fact **I write code like I solve puzzles—one piece at a time until everything fits perfectly!**
+🌱 I’m passionate about building AI-powered solutions, exploring deep learning, and optimizing data systems for real-world applications.
+
+🚀 Currently diving deep into Cloud Services (AWS, GCP), and exploring the world of Generative AI and NLP.
+
+💡 Let's connect! I'm always excited to collaborate and contribute to open-source projects.
+
+🛠️ Technologies I’m working with: Python, TensorFlow, PyTorch, React.js, Node.js, AWS, GCP, PostgreSQL, MongoDB, Docker, Kubernetes
+
+📚 Currently learning: Advanced Deep Learning, Reinforcement Learning, Cloud Architecture, Quantum Computing, GraphQL
+
+🌍 Open to collaborations: Whether you're working on an AI project, exploring new data science techniques, or tackling complex system designs—let's work together!
+
+🔗 Check out my blog or articles: If you write about AI, technology, or other interests, it could be a great addition.
+
+🏆 Achievements & Recognitions: Mention any awards, certifications, or accolades you've earned to highlight your expertise.
+
+🌱 Personal Goals: Example: "I'm striving to make a meaningful impact with my skills in AI and data science, and I’m always eager to learn from the community!"
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
- <a href="https://twitter.com/harshra78239699" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="harshra78239699" height="30" width="40" /></a>
+
 <a href="https://linkedin.com/in/harsh-raj-56942a221" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harsh-raj-56942a221" height="30" width="40" /></a>
 <a href="https://instagram.com/rick_grimes_1403" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rick_grimes_1403" height="30" width="40" /></a>
 <a href="https://medium.com/@teslanikola01943" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@teslanikola01943" height="30" width="40" /></a>
