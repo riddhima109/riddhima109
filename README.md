@@ -2,20 +2,20 @@
 ![2e9e9c04-1d3c-436c-a0a8-b31bb8687342 (1)](https://github.com/user-attachments/assets/7511ab1c-9ed2-4e4b-9fd9-f5925158351b)
 
 <h1 align="center">Hii 👋, I'm Riddhima Bansal</h1>
-<h3 align="center">Enthusiastic about leveraging AI, data science, and tech to create impactful solutions.</h3>
-<h4 align="center">I'm striving to make a meaningful impact with my skills in AI and data science, and I’m always eager to learn from the community.</h4>
+<h3 align="center">Enthusiastic about blending full stack development, C#/.NET engineering, and AI to build intelligent, scalable solutions.</h3>
+<h4 align="center">I'm passionate about applying tech creatively — from backend systems to AI-driven features — and I’m always eager to learn, collaborate, and grow with the developer community.</h4>
 <img align="right" alt="coding" width="400" src="https://github.com/riddhima109/riddhima109/blob/main/Untitled%20design.gif">
 
-- 🔭 I’m currently working on [**Disaster Recovery and Backup System.**](https://github.com/riddhima109/-Disaster-Recovery-and-Backup-System)
-- 👨‍💻 All of my projects are available at [My Portfolio]().
-- 💬 Ask me about **AI/ML, Data Science, Python, React.js, Node.js, TensorFlow, AWS, Cloud Computing, MySQL, DSA**
+- 🔭 I’m currently working as an **Associate** at **PricewaterhouseCoopers**.
+- 👨‍💻 All of my projects are available at [My Portfolio](https://github.com/riddhima109?tab=repositories).
+- 💬 Ask me about **C#, .NET, Full Stack Development, Python, React.js, Node.js, AI/ML, GANs, Cloud Computing (Azure/AWS), SQL, DSA**
 - 📫 How to reach me: [riddhimab65@gmail.com](mailto:riddhimab65@gmail.com)
 - 📄 Know about my experiences: [Resume](https://drive.google.com/drive/folders/1RZ6kVwVLSmOlNY4CRIafccuvdml_3Aou?usp=sharing)
 - ⚡ **Fun fact:** I write code like building a bridge—one logical step at a time, connecting ideas to create something seamless
 - 🌱 I’m passionate about building AI-powered solutions, exploring deep learning, and optimizing data systems for real-world applications.
-- 🚀 Currently diving deep into Cloud Services (AWS, GCP), and exploring the world of Generative AI and NLP.
-- 🛠️ **Technologies I’m working with:** Python, TensorFlow, PyTorch, React.js, Node.js, AWS, GCP, PostgreSQL, MongoDB, Docker, Kubernetes
-- 📚 Currently learning: Advanced Deep Learning, Reinforcement Learning, Cloud Architecture, Quantum Computing, GraphQL
+- 🚀 Currently diving deep into Cloud Services (AWS, GCP), while exploring Generative AI, NLP, and advancing my expertise in C# and .NET development.
+- 🛠️ **Technologies I’m working with:** C#, .NET, Python, Large Language Models (LLMs), React.js
+- 📚 **Currently learning: Advanced Deep Learning, Cloud Architecture, Full Stack Development
 - 🌍 **Open to collaborations:** Whether you're working on an AI project, exploring new data science techniques, or tackling complex system designs—let's work together!
 
 <h3 align="left">Connect with me:</h3>
