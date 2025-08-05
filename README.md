@@ -15,11 +15,19 @@
 - 🌱 I’m passionate about building AI-powered solutions, exploring deep learning, and optimizing data systems for real-world applications.
 - 🚀 Currently diving deep into Cloud Services (AWS, GCP), while exploring Generative AI, NLP, and advancing my expertise in C# and .NET development.
 - 🛠️ **Technologies I’m working with:** C#, .NET, Python, Large Language Models (LLMs), React.js
-- 📚 **Currently learning: Advanced Deep Learning, Cloud Architecture, Full Stack Development
+- 📚 **Currently learning:** Advanced Deep Learning, Cloud Architecture, Full Stack Development
 - 🌍 **Open to collaborations:** Whether you're working on an AI project, exploring new data science techniques, or tackling complex system designs—let's work together!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <a href="https://www.linkedin.com/in/riddhima109" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:riddhimab65@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</p>
+
 
 
 
