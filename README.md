@@ -20,7 +20,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/riddhima109" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/riddhima-bansal-7-linkup/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn"/>
   </a>
   <a href="mailto:riddhimab65@gmail.com" target="_blank" rel="noopener noreferrer">
