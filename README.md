@@ -35,16 +35,8 @@
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" title="C#">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
   </a>
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" title="C#">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-  </a>
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" title="C#">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-  </a>
+
   
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" title="C#">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-  </a>
   <a href="https://dotnet.microsoft.com/" target="_blank" title=".NET">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt="dotnet" width="40" height="40"/>
   </a>
@@ -167,13 +159,13 @@
   <a href="https://www.mathworks.com/products/matlab.html" target="_blank" title="MATLAB">
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>
   </a>
-  <img
-  src="https://logosandtypes.com/wp-content/uploads/2020/08/SAS.png"
-  alt="SAS Logo"
-  width="45"
-  height="auto"
-  title="SAS"
-/>
+
+  <img src="https://logosandtypes.com/wp-content/uploads/2020/08/SAS.png" alt="SAS Logo" width="45" title="SAS" />
+
+  <img src="https://github.com/user-attachments/assets/1646ae5e-ef23-46ba-8481-e42e973d96a6" alt="Express.js Logo" width="40" height="40" title="Express.js" />
+
+
+
 
 
 
