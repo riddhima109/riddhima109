@@ -35,6 +35,16 @@
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" title="C#">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
   </a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" title="C#">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
+  </a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" title="C#">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
+  </a>
+  
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" title="C#">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
+  </a>
   <a href="https://dotnet.microsoft.com/" target="_blank" title=".NET">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt="dotnet" width="40" height="40"/>
   </a>
@@ -53,9 +63,9 @@
   <a href="https://isocpp.org/" target="_blank" title="C++">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
   </a>
-  <a href="https://www.mysql.com/" target="_blank" title="SQL">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="sql" width="40" height="40"/>
-  </a>
+ <img src="https://cdn-icons-png.flaticon.com/512/29/29165.png" alt="SQL" width="40" height="40" title="SQL"/>
+ <img src="https://dsaihub.com/wp-content/uploads/2023/07/NoSQL.jpg" alt="No SQL" width="40" height="40" title="No SQL"/>
+ <img src="https://logo.svgcdn.com/l/mysql.png" alt="MySQL Logo" width="40" height="40" title="MySQL"/>
 
   <!-- Web Development -->
   <a href="https://www.w3.org/html/" target="_blank" title="HTML">
@@ -67,6 +77,14 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title="JavaScript">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a>
+  <img
+  src="https://cdn-icons-png.flaticon.com/512/8618/8618881.png"
+  alt="Machine Learning Icon"
+  width="40"
+  height="40"
+  title="AI & ML"
+/>
+
 
   <!-- Frameworks & Libraries -->
   <a href="https://spark.apache.org/" target="_blank" title="Apache Spark">
@@ -144,8 +162,5 @@
 
 </p>
 
-  <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer" title="Selenium">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="selenium" width="40" height="40"/>
-  </a>
-</p>
+  
 
