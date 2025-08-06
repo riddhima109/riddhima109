@@ -123,14 +123,20 @@
   <a href="https://www.tableau.com/" target="_blank" title="Tableau">
     <img src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="tableau" width="40" height="40"/>
   </a>
-  <a href="https://looker.com/" target="_blank" title="Looker">
-    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-looker-a-data-platform-company-that-helps-you-explore-understand-and-share-business-analytics-logo-color-tal-revivo.png" alt="looker" width="40" height="40"/>
-  </a>
+  <img
+  src="https://www.gstatic.com/bricks/image/120b98c5-9141-4dc9-8490-3b7ae9e7670d.svg"
+  alt="Looker Logo"
+  width="40"
+  height="40"
+  title="Looker"
+/>
+
+
+  
 
   <!-- Cloud -->
-  <a href="https://aws.amazon.com" target="_blank" title="AWS">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="40" height="40"/>
-  </a>
+  <img src="https://www.sas2py.com/assets/img/AWS-right.png" alt="AWS Logo" width="55" height="auto" title="AWS" />
+
   <a href="https://cloud.google.com/" target="_blank" title="Google Cloud">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="gcp" width="40" height="40"/>
   </a>
@@ -142,9 +148,14 @@
   <a href="https://www.selenium.dev/" target="_blank" title="Selenium">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="selenium" width="40" height="40"/>
   </a>
-  <a href="https://kafka.apache.org/" target="_blank" title="Kafka">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Apache_kafka-icon.svg" alt="kafka" width="40" height="40"/>
-  </a>
+  <img
+  src="https://www.codefro.com/wp-content/uploads/sites/12/2023/06/kafka-logo-tall-apache-kafka-logo-450x500.jpg"
+  alt="Apache Kafka Logo"
+  width="40"
+  height="40"
+  title="Apache Kafka"
+/>
+
   <a href="https://www.docker.com/" target="_blank" title="Docker">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
   </a>
@@ -156,9 +167,16 @@
   <a href="https://www.mathworks.com/products/matlab.html" target="_blank" title="MATLAB">
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>
   </a>
-  <a href="https://www.sas.com/" target="_blank" title="SAS">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/SAS_logo_horiz.svg" alt="sas" width="60" height="20"/>
-  </a>
+  <img
+  src="https://logosandtypes.com/wp-content/uploads/2020/08/SAS.png"
+  alt="SAS Logo"
+  width="45"
+  height="auto"
+  title="SAS"
+/>
+
+
+
 
 </p>
 
