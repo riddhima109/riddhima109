@@ -162,7 +162,20 @@
 
   <img src="https://logosandtypes.com/wp-content/uploads/2020/08/SAS.png" alt="SAS Logo" width="45" title="SAS" />
 
-  <img src="https://github.com/user-attachments/assets/1646ae5e-ef23-46ba-8481-e42e973d96a6" alt="Express.js Logo" width="40" height="40" title="Express.js" />
+  <img src="https://github.com/user-attachments/assets/1646ae5e-ef23-46ba-8481-e42e973d96a6" alt="Node.js Logo" width="40" height="40" title="Node.js" />
+
+  <img src="https://logo.svgcdn.com/l/jwt.png" alt="JWT Logo" width="100" height="200" title="JSON Web Token (JWT)" />
+
+  <img src="https://img.icons8.com/color/48/api.png" alt="API Icon" width="40" height="40" title="API" />
+
+  <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" alt="Postman" width="40" height="40" title="Postman" />
+
+  <img src="https://logo.svgcdn.com/l/swagger.png" alt="Swagger Logo" width="40" height="40" title="Swagger" />
+
+
+
+
+
 
 
 
