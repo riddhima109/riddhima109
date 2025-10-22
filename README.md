@@ -10,11 +10,12 @@
 - 👨‍💻 All of my projects are available at [My Portfolio](https://github.com/riddhima109?tab=repositories).
 - 💬 Ask me about **C#, .NET, Full Stack Development, Python, React.js, Node.js, AI/ML, GANs, Cloud Computing (Azure/AWS), SQL, DSA**
 - 📫 How to reach me: [riddhimab65@gmail.com](mailto:riddhimab65@gmail.com)
-- 📄 Know about my experiences: [Resume](https://drive.google.com/drive/folders/1RZ6kVwVLSmOlNY4CRIafccuvdml_3Aou?usp=sharing)
+- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1qCsVuoo85_9r63k6Z7qEL07nm0kBfv5J/view?usp=sharing)
+- 📝 Know about my experiences: [Certificates](https://drive.google.com/drive/folders/1XwW2GdQLsab1WWwopB8GfxMkNGIflaLS?usp=sharing)
 - ⚡ **Fun fact:** I write code like building a bridge—one logical step at a time, connecting ideas to create something seamless
 - 🌱 I’m passionate about building AI-powered solutions, exploring deep learning, and optimizing data systems for real-world applications.
 - 🚀 Currently diving deep into Cloud Services (AWS, GCP), while exploring Generative AI, NLP, and advancing my expertise in C# and .NET development.
-- 🛠️ **Technologies I’m working with:** C#, .NET, Python, Large Language Models (LLMs), React.js
+- 🛠️ **Technologies I’m working with:** C#, .NET, Python, Large Language Models (LLMs), React.js, Power Platform
 - 📚 **Currently learning:** Advanced Deep Learning, Cloud Architecture, Full Stack Development
 - 🌍 **Open to collaborations:** Whether you're working on an AI project, exploring new data science techniques, or tackling complex system designs—let's work together!
 
