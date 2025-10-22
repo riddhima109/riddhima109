@@ -141,13 +141,7 @@
   <a href="https://www.selenium.dev/" target="_blank" title="Selenium">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="selenium" width="40" height="40"/>
   </a>
-  <img
-  src="https://www.codefro.com/wp-content/uploads/sites/12/2023/06/kafka-logo-tall-apache-kafka-logo-450x500.jpg"
-  alt="Apache Kafka Logo"
-  width="40"
-  height="40"
-  title="Apache Kafka"
-/>
+  
 
   <a href="https://www.docker.com/" target="_blank" title="Docker">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
